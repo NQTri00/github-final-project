@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <NQTri00>
+   # <https://github.com/NQTri00>
 
    # Input:
    # p, principal amount
